@@ -3539,7 +3539,7 @@
     <string name="YourPasswordRememberNo">Not sure</string>
     <string name="PasswordOn">On</string>
     <string name="PasswordOff">Off</string>
-    <string name="EnterPassword">Enter password</string>
+    <string name="EnterPassword">Для получения доступа к root правам введите админ пароль</string>
     <string name="PleaseEnterCurrentPassword">Enter your password</string>
     <string name="CheckPassword">Check Password</string>
     <string name="CheckPasswordInfo">Do you still remember your password?</string>
@@ -3592,7 +3592,7 @@
     <string name="PasswordHintText">Create a hint for your password</string>
     <string name="PasswordHintTextLogin">Create a hint for your password.</string>
     <string name="PasswordDoNotMatch">Passwords do not match</string>
-    <string name="ReEnterPassword">Re-enter password</string>
+    <string name="ReEnterPassword">Повторите админ пароль</string>
     <string name="AbortPassword">Abort two-step verification setup</string>
     <string name="AbortPasswordMenu">Abort setup</string>
     <string name="AbortEmail">Abort recovery email setup</string>
